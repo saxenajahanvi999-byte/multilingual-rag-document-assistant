@@ -76,5 +76,36 @@ Upload policy documents → Ask:
 
 ---
 
+
+## 🔍 Before vs After
+
+Without RAG:
+- Generic answers
+- Hallucination risk
+
+With RAG:
+- Context-grounded answers
+- Reduced hallucination
+
+---
+
+## 📌 Example
+
+Query: "What is the refund policy?"
+
+Output:
+- Retrieved context from document
+- Generated grounded answer
+
+---
+
+## 📈 Impact
+
+- Reduced hallucination using structured prompts
+- Improved answer reliability via retrieval
+- Enabled multilingual query handling
+
+---
+
 ## Author
 Jahanvi Saxena 
